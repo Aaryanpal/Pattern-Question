@@ -7,10 +7,10 @@
 |5.   |  Inverted-Right-Angled Triangle |   |
 |  6. | Mirror-Right-Angled Triangle  |   |
 | 7.  | Pyramid-Shape  |   |
-| 8.  |   |   |
-| 9.  |   |   |
-|  10. |   |   |
-|  11. |   |   |
+| 8.  | scalen_triangle  |   |
+| 9.  | Mountain  |   |
+|  10. | 121-Triangle  |   |
+|  11. | ABCD-Mountain  |   |
 | 12.  |   |   |
 | 13.  |   |   |
 |   |   |   |
