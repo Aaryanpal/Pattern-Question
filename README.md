@@ -11,7 +11,7 @@
 | 9.  | Mountain  |   |
 |  10. | 121-Triangle  |   |
 |  11. | ABCD-Mountain  |   |
-| 12.  |   |   |
+| 12.  | Rhombus  |   |
 | 13.  |   |   |
 |   |   |   |
 <!-- | Square |  |
