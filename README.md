@@ -12,8 +12,8 @@
 |  10. | 121-Triangle  |   |
 |  11. | ABCD-Mountain  |   |
 | 12.  | Rhombus  |   |
-| 13.  |   |   |
-|   |   |   |
+| 13.  | Half-Diamond  |   |
+|  14. |  Inverted-Full pyramid |   |
 <!-- | Square |  |
 | Hollow-Square | Text |
 |Right-Angled Traingle| |
