@@ -20,4 +20,11 @@
 |16.|6543210    |  |
 | 17.|Inverted Half Diamond |   |
 |18.| 1232  |  |
-|19.|   |  |
+|19.| Hollow-Star-Diamond |  |
+|20.|ABA-Pyramid| |
+|21.|A1-Triangle| |
+|22.|Rhombus| |
+|23.|12A-Pyramid| |
+|24.|Binary-Triangle|    |
+|25.|Hollow-inside-Hollow-Rectangle| |
+|26.|121-diamond|   |
