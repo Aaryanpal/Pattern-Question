@@ -13,6 +13,11 @@
 | 9.  | Mountain  |   |
 |  10. | 121-Triangle  |   |
 |  11. | ABCD-Mountain  |   |
-| 12.  | Rhombus  |   |
+| 12.  | Diamond  |   |
 | 13.  | Half-Diamond  |   |
 |  14. |  Inverted-Full pyramid |   |
+| 15. |Holllow-Diamond  |         |
+|16.|6543210    |  |
+| 17.|Inverted Half Diamond |   |
+|18.| 1232  |  |
+|19.|   |  |
