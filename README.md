@@ -1,3 +1,5 @@
+## TO-DO List
+
 | S.no  | Question  |  link |
 |---|:---:|---|
 |  1. | Square  |   |
@@ -14,9 +16,3 @@
 | 12.  | Rhombus  |   |
 | 13.  | Half-Diamond  |   |
 |  14. |  Inverted-Full pyramid |   |
-<!-- | Square |  |
-| Hollow-Square | Text |
-|Right-Angled Traingle| |
-|Reversed-Right-Angled Triangle| |
-|Inverted-Right-Angled Triangle| |
-|Mirror-Right-Angled Triangle| | -->

@@ -1,23 +1,21 @@
-// *******
-//  *****
-//   ***
-//    *
+//    1
+//   232
+//  34543
+// 4567654
 #include<iostream>
 using namespace std;
 
 int main()
 {
-    cout<<"Enter number of rows:\n";
-    // int row;
-    // cin>>row;
-
-    for(int i=0;i<4;i++)
-    {
+    for (int i=1;i<=4;i++)
+    {   
+        int k=i;
         for(int j=1;j<=7;j++)
         {
-            if(j>=1+i && j<=7-i)
+            if(j>=5-i && j<=3+i)
             {
-                cout<<"*";
+                cout<<k;
+                j<4?k++:k--;
             }
             else{
                 cout<<" ";
