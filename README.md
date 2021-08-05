@@ -30,3 +30,4 @@
 |26.|121-diamond|   |
 |27.|ABA-Right-Angle-Triangle| |
 |28.|121-Pyramid| |
+|29.|132-Right-Angled-Triangle| |
