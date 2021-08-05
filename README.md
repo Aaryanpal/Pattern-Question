@@ -29,3 +29,4 @@
 |25.|Hollow-inside-Hollow-Rectangle| |
 |26.|121-diamond|   |
 |27.|ABA-Right-Angle-Triangle| |
+|28.|121-Pyramid| |

@@ -1,28 +1,29 @@
-// A
-// BA
-// CBA
-// DCBA
+//    1
+//   212
+//  32123
+// 4321234
 #include<iostream>
 using namespace std;
 
 int main()
-{
-    char k='A';
+{   
+    int k=0;
     for(int i=1;i<=4;i++)
     {
-        k=64+i;
-        for(int j=1;j<=4;j++)
+        k=i;
+        for(int j=1;j<=7;j++)
         {
-            if(j<=i)
+            if(j>=5-i &&j<=3+i)
             {
+                
                 cout<<k;
-                k--;
+                j<4?k--:k++;
             }
             else{
                 cout<<" ";
             }
         }
-        cout<<endl;
+        cout<<"\n";
     }
     return 0;
 }
