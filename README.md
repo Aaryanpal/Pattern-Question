@@ -28,3 +28,4 @@
 |24.|Binary-Triangle|    |
 |25.|Hollow-inside-Hollow-Rectangle| |
 |26.|121-diamond|   |
+|27.|ABA-Right-Angle-Triangle| |
