@@ -32,3 +32,11 @@
 |28.|121-Pyramid| |
 |29.|132-Right-Angled-Triangle| |
 |30.|ABC-Triangle| |
+|31.|Bizzare||
+|32.|1AB||
+|33.|X-2||
+|34.|ABC-Gate||
+|35.|162-Right-Angle-Triangle||
+|36.|012-Right angle -Triangle||
+|37.|Arrow||
+|38.|Hollow-Rhombus||
