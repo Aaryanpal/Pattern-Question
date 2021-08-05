@@ -25,7 +25,7 @@ int main()
             {
                 if(j%2==1)
                 {
-                cout<<p;
+                cout<<"   "<<p;
                 if(i%2)
                 {
                     k++;
@@ -37,7 +37,7 @@ int main()
                 }
                 
                 else
-                cout<<"*";
+                cout<<"  "<<"    *";
             }
             else{
                 cout<<" ";
