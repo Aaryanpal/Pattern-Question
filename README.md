@@ -40,3 +40,4 @@
 |36.|012-Right angle -Triangle||
 |37.|Arrow||
 |38.|Hollow-Rhombus||
+|39.|Butterfly||
